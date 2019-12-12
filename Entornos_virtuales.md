@@ -1,6 +1,6 @@
 # Entornos virtuales
 
-### Entrnos pypi
+### Entornos pypi
 Se utiliza pip para instalar.
 
 Para instalar un paquete de python hay 3 opciones:
